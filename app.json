@@ -2,7 +2,7 @@
     "name": "mansury Session Generator",
     "description": "I'm Web Session Generator by Itxx Me mansury",
     "logo": "",
-    "repository": "https://github.com/Giftedmaurice/giftedmdV2-session-generator",
+    "repository": "https://github.com/Mansurynassoro/Sessio-02",
     "keywords": ["@Xcelsama"],
     "success_url": "/", 
     "buildpacks": [{ "url": "https://github.com/heroku/heroku-buildpack-nodejs#latest" } ],
